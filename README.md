@@ -61,7 +61,7 @@ python app.py
 
 Once the server starts, visit **http://127.0.0.1:5000** in your browser. Keep the terminal open while using the website. Press **Ctrl+C** in the terminal to stop it.
 
-The database file is created locally when the app runs. It does not need to be uploaded to GitHub.
+The database file is created locally when the app runs.
 
 ## Tech stack
 
