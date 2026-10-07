@@ -121,7 +121,11 @@ skill-swap/
 
 ## Screenshots
 
-Screenshots will be added here.
+<img width="1902" height="911" alt="Screenshot 2026-10-07 194254" src="https://github.com/user-attachments/assets/66d3e82d-e39a-41f3-b41f-416b588bf5ff" />
+<img width="1901" height="911" alt="Screenshot 2026-10-07 194314" src="https://github.com/user-attachments/assets/d9cd900a-7983-4ede-ac8b-acf707398571" />
+<img width="1902" height="911" alt="Screenshot 2026-10-07 194254" src="https://github.com/user-attachments/assets/d5226403-7874-4bbb-ac4a-b0a1d7d262c9" />
+<img width="1896" height="912" alt="Screenshot 2026-10-07 194418" src="https://github.com/user-attachments/assets/78b54a01-eef2-44ed-ae3c-9daf7a684da7" />
+
 
 ## Project scope
 
