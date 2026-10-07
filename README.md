@@ -121,10 +121,11 @@ skill-swap/
 
 ## Screenshots
 
-<img width="1902" height="911" alt="Screenshot 2026-10-07 194254" src="https://github.com/user-attachments/assets/66d3e82d-e39a-41f3-b41f-416b588bf5ff" />
-<img width="1901" height="911" alt="Screenshot 2026-10-07 194314" src="https://github.com/user-attachments/assets/d9cd900a-7983-4ede-ac8b-acf707398571" />
-<img width="1902" height="911" alt="Screenshot 2026-10-07 194254" src="https://github.com/user-attachments/assets/d5226403-7874-4bbb-ac4a-b0a1d7d262c9" />
-<img width="1896" height="912" alt="Screenshot 2026-10-07 194418" src="https://github.com/user-attachments/assets/78b54a01-eef2-44ed-ae3c-9daf7a684da7" />
+<img width="1896" height="912" alt="Screenshot 2026-10-07 194418" src="https://github.com/user-attachments/assets/aac60837-5f36-40d9-a516-a0ee0858ff19" />
+<img width="1897" height="906" alt="Screenshot 2026-10-07 194359" src="https://github.com/user-attachments/assets/338f13e2-eba1-49f8-bf12-c203d6d4621b" />
+<img width="1901" height="911" alt="Screenshot 2026-10-07 194314" src="https://github.com/user-attachments/assets/8d794058-1c47-4382-a18b-b24a87ff28ea" />
+<img width="1902" height="911" alt="Screenshot 2026-10-07 194254" src="https://github.com/user-attachments/assets/e0b52e05-65c9-462e-a0a6-107deae044d7" />
+
 
 
 ## Project scope
